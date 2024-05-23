@@ -48,10 +48,6 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```html
 <details open>
             <summary>
@@ -90,8 +86,6 @@ details[open] > summary::after{
 
 
 ## Author
-
-- Website - [Suhani Goel](https://suhanigoel24.github.io/FAQ-Accordian/)
 - Frontend Mentor - [@suhanigoel24](https://www.frontendmentor.io/profile/suhanigoel24)
-- Linked in - [@yourusername](https://www.twitter.com/yourusername)
+- Linked in - [Suhani Goel](https://www.linkedin.com/in/suhani-goel-a78537277/)
 
