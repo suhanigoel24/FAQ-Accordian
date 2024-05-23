@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://suhanigoel24.github.io/FAQ-Accordian/)
 
 ## My process
 
@@ -91,7 +91,7 @@ details[open] > summary::after{
 
 ## Author
 
-- Website - [Suhani Goel](https://www.your-site.com)
+- Website - [Suhani Goel](https://suhanigoel24.github.io/FAQ-Accordian/)
 - Frontend Mentor - [@suhanigoel24](https://www.frontendmentor.io/profile/suhanigoel24)
 - Linked in - [@yourusername](https://www.twitter.com/yourusername)
 
